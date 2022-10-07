@@ -1,0 +1,8 @@
+{
+  "id": 1,
+  "itemName": "theItem",
+  "createdBy": {
+    "id": 2,
+    "name": "theUser"
+  }
+}
